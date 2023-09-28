@@ -1,3 +1,4 @@
+![logo](https://github.com/HanifRafandi014/HanifRafandi014/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hanif Naufal Rafandi</h1>
 <h3 align="center">A passionate Frontend Dev and Data Analytics</h3>
 
