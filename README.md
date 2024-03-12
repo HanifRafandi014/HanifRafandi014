@@ -77,6 +77,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanifrafandi014&show_icons=true&locale=en" alt="hanifrafandi014" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifrafandi014&" alt="hanifrafandi014" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HanifRafandi014/HanifRafandi014/output/snake.svg" alt="Snake animation" />
+### Snake
+![snake gif](https://github.com/HanifRafandi014/HanifRafandi014/blob/output/github-contribution-grid-snake.gif)
