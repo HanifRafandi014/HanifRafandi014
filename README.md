@@ -1,4 +1,4 @@
-![logo](https://github.com/HanifRafandi014/HanifRafandi014/blob/main/Github%20Banner.png)
+![logo](https://github.com/HanifRafandi014/HanifRafandi014/blob/main/Linkedin%20Cover_Data.png)
 <h1 align="center">Hi 👋, I'm Hanif Naufal Rafandi</h1>
 <h3 align="center">A passionate Data Analytics And Data Enthusiant</h3>
 
@@ -53,13 +53,13 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/HanifRafandi014/HanifRafandi014/main/images/tableau-icon.jpg" alt="tableau" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="msexcel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/HanifRafandi014/HanifRafandi014/main/images/excel-icon.jpg" alt="msexcel" width="40" height="40"/> 
   </a> 
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> 
@@ -68,7 +68,7 @@
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> 
   </a> 
   <a href="https://looker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="looker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/HanifRafandi014/HanifRafandi014/main/images/looker-icon.jpg" alt="looker" width="40" height="40"/> 
   </a> 
 </p>
 
