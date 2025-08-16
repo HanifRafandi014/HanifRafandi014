@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hanif Naufal Rafandi</h1>
-<h3 align="center">A passionate Data Analytics And Data Enthusiant</h3>
 
+✅ Competencies
+Exploratory Data Analysis, Data Preprocessing, Statistical Analysis, Data Visualization, Machine Learning, RDBMS
+
+
+💻 Tech Stack
+Ms. Excel, Python, SQL (MySQL, PostgreSQL), BigQuery, Tableau, Looker Studio, Streamlit, Flask, FastAPI
+
+📂 Project Portofolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
