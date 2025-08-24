@@ -8,7 +8,7 @@
 <p align="left">Ms. Excel, Python, SQL (MySQL, PostgreSQL), BigQuery, Tableau, Looker Studio, Streamlit, Flask, FastAPI</p>
 
 <h3 align="left">📂 Project Portofolio</h3>
-<a href=""></a>
+<a href="">Click Here!!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
