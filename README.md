@@ -14,4 +14,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hanif-naufal-rafandi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanif naufal rafandi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hnfnoppaall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zxi_nauffal" height="30" width="40" /></a>
+<a href="https://www.notion.so/Portofolio-Hanif-Naufal-Rafandi-298b185a749280eeabcdfbbc3e8d7e41" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=QBIecUlq&id=53B2026CF96FC11C12EDADDA5A6BF0B85122B3C5&thid=OIP.QBIecUlqUmWj5H2MVbv2dwHaHa&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fe%2fe9%2fNotion-logo.svg%2f1024px-Notion-logo.svg.png&exph=1024&expw=1024&q=logo+notion+svg&FORM=IRPRST&ck=93A6B28205AB51696D2019DE191CB500&selectedIndex=0&itb=1" alt="zxi_nauffal" height="30" width="40" /></a>
 </p>
